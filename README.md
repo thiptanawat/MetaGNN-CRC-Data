@@ -4,7 +4,7 @@
 
 **Manuscript:** "MetaGNN-CRC: A Recon3D-Mapped Transcriptomic Dataset with Proteomics-Ready Architecture for Graph-Based Metabolic Network Reconstruction in Colorectal Cancer"
 
-**Journal:** Data in Brief (Elsevier)
+**Journal:** ...
 **Authors:** Thiptanawat Phongwattana, Jonathan H. Chan*
 **Affiliation:** School of Information Technology, King Mongkut's University of Technology Thonburi (KMUTT), 126 Pracha Uthit Rd., Bang Mod, Thung Khru, Bangkok 10140, Thailand
 *Corresponding author: jonathan@sit.kmutt.ac.th
